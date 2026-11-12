@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="pzcB7MR_NkuO2VxQfTKeqw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1098" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAE4SURBVDhPtZO/K8VRGMb9uH4kMUi6izJY2ZRNMigLPVgk9dxEYmGxyGYxGPwFMljFZFDMMvkHTHxKyh/gV+feM5zvueVGeeqt03mfz3Pe4T1NTf8hi+ZQ+X1DRbBicWZxYjGWe36UxYjFo8VXrHOLAYsei7bcXyeLdYvPJODVYt9ix2LJoiVnCrIYsnhIAk4tui06LdYsJqOnP2eriubD+OpRgJLegsWzxZPFpUVfka6Zpi3m4rkjjj5rMWVxk0z2brGZ8wEK5pl4LsUAWyxa3CcBoXZzPkC9Fgch3WLPYiPpLVu8xbq1KBfpmqlscZe8cmzRWqntx4rFvMWoxWDOVmWxavGRBLyEUS22Yq+UMwVZjFuQBFxbDMfJunJ/ncK4FtsWVxYXFhO5p6HCtlm0h9X904f6rb4BhFXuDm6DF7sAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='Graduate Employment Survey - NTU, NUS, SIT, SMU, SUSS &amp;amp; SUTD | MOE | data.gov.sg' /&gt;" Url="https://data.gov.sg/datasets/d_3c55210de27fcccda2ed0c63fdd2b352/view" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="6170db494745691af4a90feb114b6181.jpg" xmlns="">0Xusy33ikBEKWoEBpxJP5UA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

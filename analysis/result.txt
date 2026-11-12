@@ -1,0 +1,60 @@
+
+Research question :
+
+How does retrenchment and workload patterns relate to salary outcomes in Singapore over time?
+Authors: Ephraim Toji & Han Qian
+
+Analyse Charts:
+
+Graph 1 (Total Retrenchments Over Time): As seen in the graph, the retrenchment rate fluctuates, for example based on social situations like COVID-19. Even though there is an overall increasing trend, individual sectors may affect the retrenchment rates.
+
+Graph 2 (Retrenchments by Sector Over Time): The general trend (in the last 5 years 2018–2024) is that Services and Manufacturing sectors consist of the majority retrenchment rate. There is higher risk for people working in Services and Manufacturing sectors.
+
+Graph 3 (Employment Rate by Sector - Boxplot): 
+Median employment rate is highest for graduates from Financial and Insurance services, while lowest for graduates from Manufacturing (excluding other degrees)
+    - This tells us that graduates from Financial and Insurance services have the highest average chance of getting employment, while graduates from manufacturing has the lowest average chance of getting employment
+The distribution of employment rate is highest for graduates from professional services, while lowest for real estate services graduates.
+    - Despite the relatively high median employment rate, graduates from professional services do not always get employed.
+    - Graduates from real estate services have generally a high chance of getting employment.
+
+Graph 4 (Top Sectors by Median Salary): 
+- Information and Communications offers the highest median monthly salary while Real Estate Services records the lowest.
+- However, the overall variation across sectors is relatively small, indicating that median wages are fairly consistent across industries.
+
+Graph 5 (Salary vs Full-Time Employment Rate): Most jobs with high employment rates are also paid well. There are still outliers, but this is the general trend (this can be affected by sectors and job roles).
+
+Graph 6 (Workers >48 Hours by Sector): 
+- Professionals usually are more prone to working overtime, while craftsmen and related trade workers, as well as labour related jobs require less overtime work
+- Overtime work is usually demanded by jobs in higher levels
+
+Final Conclusion:
+
+ While retrenchment and workload patterns vary by sector, the strongest predictor of salary is job security rather than working hours. While deciding a job area to work on,choose sectors with low retrenchment rates and high graduate employment for better salary. 
+The sectors with highest retrenchment rates are: 
+    - Services 
+    - Manufacturing
+    - Wholesale & Retail Trade
+    - Financial & Insurance Services
+    - Professional Services
+
+Best sectors to be in are: 
+    1. Financial & Insurance Services
+    Highest graduate employment rate (>95%)
+    High median salary (~$3,500+)
+    Average retrenchment rates
+    
+    2. Professional Services
+    High graduate employment rate (>90%)
+    High median salary (~$3,500)
+    Lower retrenchment risk
+    - However these have high overtime
+
+
+    3. Information & Communications
+    Highest salary levels (~$3,600)
+    Growing sector
+    Moderate employment rates
+    Higher retrenchment
+    - However these have high overtime
+
+
